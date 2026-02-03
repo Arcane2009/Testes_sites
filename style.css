@@ -7,6 +7,7 @@ div{
     display: grid;
     grid-template-rows: 50px auto 50px;
     justify-items: center;
+    padding-bottom: 50px;
 }
 .cult_video{
     width: 540;
